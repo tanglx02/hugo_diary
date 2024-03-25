@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 记录生活</title>
+    <link>//localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 记录生活</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 24 Oct 2022 18:03:03 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(一)搭建hugo博客</title>
+      <link>//localhost:1313/posts/diary/%E4%B8%80%E6%90%AD%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 24 Oct 2022 18:03:03 +0800</pubDate>
+      
+      <guid>//localhost:1313/posts/diary/%E4%B8%80%E6%90%AD%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</guid>
+      <description>一、安装hugo windows用户可以先去官网下载hugo框架， hugo官网地址 ， 苹果用户有安装HomeBrew工具的话可以直接输入brew install hugo进行安装。 下载完成后检查是否安装成功，输入: hugo version，若出现版本信息则表示安装成功。 二、新建站点 找到存放hugo站点的路径</description>
+    </item>
+    
+  </channel>
+</rss>

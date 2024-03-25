@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>记录生活</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on 记录生活</description>
+    <title>日记 on 记录生活</title>
+    <link>//localhost:1313/categories/%E6%97%A5%E8%AE%B0/</link>
+    <description>Recent content in 日记 on 记录生活</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 25 Mar 2024 18:03:03 +0800</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 18:03:03 +0800</lastBuildDate><atom:link href="//localhost:1313/categories/%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年3月日记</title>
       <link>//localhost:1313/posts/diary/2024%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%97%A5%E8%AE%B0/</link>
@@ -15,26 +15,6 @@
       <guid>//localhost:1313/posts/diary/2024%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%97%A5%E8%AE%B0/</guid>
       <description>3月26日 🗓️2024/3/26&amp;ensp;星期二&amp;ensp;&amp;ensp;天气☀️ 今日计划： 1.学习数通两小时 2.看数通考试题库一小时 3.各种keep锻炼一小时 4.喝水500ml*4 Diary： 3月27日 🗓️2024/3/27&amp;ensp;星期三&amp;ensp;&amp;ensp;天气 今日计划</description>
     </item>
-    
-    <item>
-      <title>🔗链接</title>
-      <link>//localhost:1313/links/</link>
-      <pubDate>Mon, 25 Mar 2024 15:15:53 +0800</pubDate>
-      
-      <guid>//localhost:1313/links/</guid>
-      <description>我的技术博客 我的技术博客</description>
-    </item>
-    
-    <item>
-      <title>🙋🏻‍♂️关于</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
-      
-      <guid>//localhost:1313/about/</guid>
-      <description>关于我 姓名: 汤龙祥 性别: 男 出年: 2002年12月23日 住址: 云南大理</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
