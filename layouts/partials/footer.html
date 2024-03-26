@@ -110,7 +110,7 @@
     });
 </script>
 {{- end }}
-
+<!--
 <script>
     document.body.addEventListener('copy', function (e) {
         if (window.getSelection().toString() && window.getSelection().toString().length > 50) {
@@ -131,7 +131,7 @@
         }
     });
 </script>
-
+-->
 {{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (.Param "ShowCodeCopyButtons")) }}
 <script>
     document.querySelectorAll('pre > code').forEach((codeblock) => {
@@ -146,17 +146,6 @@
                 copybutton.innerText = '{{- i18n "code_copy" | default "copy" }}';
             }, 2000);
         }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                let text = codeblock.textContent +
-                    '\r\n————————————————\r\n' +
-                    '版权声明：本文为「'+{{ .Site.Title }}+'」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。' +
-                '\r\n原文链接：' + location.href;
-                navigator.clipboard.writeText(text);
-                copyingDone();
-                return;
-            }
 
             const range = document.createRange();
             range.selectNodeContents(codeblock);

@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 记录生活</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on 记录生活</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 24 Oct 2022 18:03:03 +0800</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 15:09:19 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>建站</title>
-      <link>//localhost:1313/categories/%E5%BB%BA%E7%AB%99/</link>
-      <pubDate>Mon, 24 Oct 2022 18:03:03 +0800</pubDate>
+      <title>小作文</title>
+      <link>/categories/%E5%B0%8F%E4%BD%9C%E6%96%87/</link>
+      <pubDate>Tue, 26 Mar 2024 15:09:19 +0800</pubDate>
       
-      <guid>//localhost:1313/categories/%E5%BB%BA%E7%AB%99/</guid>
+      <guid>/categories/%E5%B0%8F%E4%BD%9C%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日记</title>
+      <link>/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 25 Mar 2024 18:03:03 +0800</pubDate>
+      
+      <guid>/categories/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
     
